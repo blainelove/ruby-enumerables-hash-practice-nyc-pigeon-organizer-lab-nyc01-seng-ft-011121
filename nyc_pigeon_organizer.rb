@@ -1,4 +1,4 @@
-rquire 'pry'
+rquire'pry'
 def nyc_pigeon_organizer(data)
   binding.pry
 
